@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin+Condensed|Roboto:500');
-body {font-family: arial;
+body {font-family: 'Roboto';
 	text-align: left;
-	font-family: tahoma;
 	color: #000;
 	font-size: 14px;
 }
-h1 {font-family: cabin condensed;
+h1 {font-family: 'cabin condensed';
 	text-align:center;
-	font-family: helvetica;
 	color: #55D5E8;
 	font-size: 30px;
 
